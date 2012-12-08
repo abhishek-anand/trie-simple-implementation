@@ -12,7 +12,7 @@ using namespace std;
  * 1. insert - O(k) 
  * 2. search - O(k)
  * 3. count of words with a given prefix of length k - O(k)
- * visit http://youtube.com/algoKing for more such implementations.
+ * Try this code with inputs at http://ideone.com/UkyE2
 */
 
 
