@@ -10,4 +10,6 @@ A simple implementation of trie
  1. insert - O(k) 
  2. search - O(k)
  3. count of words with a given prefix of length k - O(k)
+ 
+
  Try this code with inputs at http://ideone.com/UkyE2
